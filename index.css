@@ -44,7 +44,7 @@ a{
      margin: 2rem;
 }
 
-.container .ctn-name-avatar  .avatar{
+.container .ctn-name-avatar .avatar{
      width: 300px;
      height: 300px;
      border-radius: 50%;
@@ -125,7 +125,7 @@ a{
      height: 100%;
      position: absolute;
      background-color: #0628a2;
-     transform: translateX(-99%);
+     transform: translateX(-99.5%);
      z-index: 2;
 }
 
@@ -276,7 +276,8 @@ a{
      .container .ctn-name-avatar{
           margin: auto;
      }
-     .container .ctn-name-avatar  .avatar{
+
+     .container .ctn-name-avatar .avatar{
           width: 150px;
           height: 150px;
           margin: auto;
