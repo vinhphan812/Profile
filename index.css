@@ -13,7 +13,7 @@ a{
 }
 
 .main{
-     margin: 0 4rem;
+     margin: 0 5rem;
      background-color: #fff;
      /* border-radius: 2rem; */
      overflow: hidden;
@@ -22,17 +22,17 @@ a{
 .title{
      height: 4rem;
      text-align: center;
-     background-color: #dadada;
+     background-color: #0039a2;
      font-size: 2rem;
      line-height: 4rem;
      font-weight: 400;
-     color: #08ca08;
+     color: #b2ffb2;
      margin-bottom: 10px;
 }
 
 .title span:nth-child(2){
      font-weight: 200;
-     color: #000;
+     color: #fff;
 }
 
 .container{
@@ -48,6 +48,7 @@ a{
      width: 300px;
      height: 300px;
      border-radius: 50%;
+     border: 5px solid #0628a290;
 }
 .container .ctn-name-avatar .name{
      font-size: 2rem;
