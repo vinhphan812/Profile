@@ -13,9 +13,9 @@ a{
 }
 
 .main{
-     margin: 3rem;
+     margin: 0 4rem;
      background-color: #fff;
-     border-radius: 2rem;
+     /* border-radius: 2rem; */
      overflow: hidden;
 }
 
